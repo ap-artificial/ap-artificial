@@ -11,4 +11,4 @@ I build production-grade Claude Skills for real-world enterprise workflows (OOH 
 ### Stack
 `pdfimages, pdftoppm, python-pptx, openpyxl, Claude Read Tool, Manrope`
 
-Built for billups - World's largest independent OOH agency.
+Built for World's largest independent OOH agency.
