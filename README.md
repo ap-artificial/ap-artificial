@@ -1,11 +1,7 @@
 ## Hi there 👋
-
-<!--
-**ap-artificial/ap-artificial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Enterprise Claude Skill Builder
 
-I build production-grade Claude Skills for real-world enterprise workflows (OOH advertising - billups).
+I build production-grade Claude Skills for real-world enterprise workflows (OOH advertising).
 
 ### Featured Skills
 - **critical-research-agent-skill** - 5-pillar triangulation, bilingual scoring, anti-hallucination
